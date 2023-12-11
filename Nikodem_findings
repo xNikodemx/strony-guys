@@ -1,0 +1,22 @@
+my progress,
+
+
+so yea in first shot will be jest;
+a- jak zainstalowac aplikacje `jest`
+b- co to `jest`
+c- pliki `jest`
+d- pierwsze testyJest is a JavaScript test runner, that is, a JavaScript library for creating, running, and structuring tests.
+
+Jest ships as an NPM package, you can install it in any JavaScript project. Jest is one of the most popular test runner these days, and the default choice for React projects.
+e- rodzaje testow `jest`
+f- kilka komend
+g- link to strony `jest`
+
+
+a{ import ReactTestUtils from 'react-dom/test-utils'; 
+ var ReactTestUtils = require('react-dom/test-utils'); // ES5 z zainstalowanym npm 
+}
+b{
+ 
+
+}
